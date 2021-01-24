@@ -1,3 +1,5 @@
 # Paper Tweeter
 
-Using Mediumish Jekyll Theme
+All your papers. At tweet length.
+
+<i>Using Mediumish Jekyll Theme</i>
