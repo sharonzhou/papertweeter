@@ -1,32 +1,25 @@
 # Site
 name: "Paper Tweeter"
 title: "Paper Tweeter"
-description: "All your papers - at tweet length"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "All your papers. At tweet length."
+logo: 'assets/images/twitterlogo.png'
+favicon: 'assets/images/twitterlogo.png'
 baseurl: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  realSharonZhou:
+    name: Sharon Zhou
+    avatar: "https://pbs.twimg.com/profile_images/1328750370798133253/yjVjhDTU_bigger.png"
+    display_name: "@realSharonZhou"
+    twitter: "https://twitter.com/realSharonZhou"
+  oziadias:
+    name: Ziad Obermeyer
+    display_name: "@oziadias"
+    avatar: https://pbs.twimg.com/profile_images/826520790334132226/V2Xhk6K4_400x400.jpg
+    twitter: https://twitter.com/oziadias
 
 # Plugins
 plugins:

@@ -1,31 +1,34 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
+title:  "Disentanglement"
+author: realSharonZhou
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+image: assets/images/paperabstract.jpg
 featured: true
 hidden: true
-rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+Excited to share our #ICLR2021 paper w/ CS & math depts @Stanford 🎊
 
-#### How to use?
+Evaluating the Disentanglement of Deep Generative Models through Manifold Topology!
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+w/ @ericzelikman Fred Lu @AndrewYNg Gunnar Carlsson @StefanoErmon. Acknowledging @torbjornlundh Samuel Bengmark.
 
-```html
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
+Thread 🧵
+
+------
+
+Before I start: camera-ready 📸 & math-inclined R5 burn 🔥 are here
+openreview.net/forum?id=djwS0…
+
+Huge appreciation for all reviewers esp R5 in making our work better.
+
+My goal in 🧵: Explain our work in my simplest terms to you. Don't worry if you get lost, it's admittedly dense :)
+
+------
+
+Disentanglement in your generative model means dimensions in its latent space can change a corresponding feature in its data space, e.g. adapting just 1️⃣ dim can make the output "sunnier" ☁️→🌥→⛅️→🌤→☀️ Contrast w/ this entangled mess ☁️→🌥→🌩→🌪→☀️
+
+------
+
