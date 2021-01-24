@@ -12,7 +12,7 @@ permalink: /:title/
 authors:
   realSharonZhou:
     name: Sharon Zhou
-    avatar: 'https://pbs.twimg.com/profile_images/1328750370798133253/yjVjhDTU_bigger.jpg'
+    avatar: https://pbs.twimg.com/profile_images/1328750370798133253/yjVjhDTU_bigger.png
     display_name: "@realSharonZhou"
     twitter: 'https://twitter.com/realSharonZhou'
   oziadias:
