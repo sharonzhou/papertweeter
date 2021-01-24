@@ -4,7 +4,7 @@ title: "Paper Tweeter"
 description: "All your papers. At tweet length."
 logo: 'assets/images/twitterlogo.png'
 favicon: 'assets/images/twitterlogo.png'
-baseurl: ''
+baseurl: '/'
 include: ["_pages"]
 permalink: /:title/
 
