@@ -46,6 +46,7 @@ title: Home
   <button class="{% if page.url == "/" %} active {% endif %} tablinks" onclick="openTab(event)" id="defaultOpen">LATEST</a></button>
   <button class="{% if page.url contains '/liked/' %} active {% endif %} tablinks" onclick="openTab(event)">TOP</button>
   <button class="{% if page.url contains '/retweeted/' %} active {% endif %} tablinks" onclick="openTab(event)">RETWEETED</button>
+  <!-- TODO: add search tags functionality on this nav -->
 </div>
 
 
@@ -54,13 +55,11 @@ title: Home
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
-
+    <!--
     <div class="section-title">
-
         <h2><span>All Paper Tweets</span></h2>
-
     </div>
-
+    -->
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
