@@ -4,8 +4,6 @@ title:  "Medical puzzle"
 author: oziadias
 categories: [ Jekyll, tutorial ]
 image: assets/images/natureknee.png
-featured: true
-hidden: true
 ---
 
 Medical puzzle:

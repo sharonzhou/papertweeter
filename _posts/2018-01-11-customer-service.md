@@ -5,8 +5,6 @@ author: realSharonZhou
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/paperabstract.jpg
-featured: true
-hidden: true
 ---
 
 Excited to share our #ICLR2021 paper w/ CS & math depts @Stanford 🎊

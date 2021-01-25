@@ -59,7 +59,36 @@
 
 .recent-posts {
     margin-top: 25px;
+}
 
+// Tweet separator
+.t-tweet {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #f3f0f0;
+}
+
+// Make first tweet in thread larger font
+#tweet_1 {
+    font-size: 25px;
+}
+
+// Hover over tweet
+.content-tweet:hover {
+    background-color: #eaf7ff;
+}
+
+// Show several images per post
+.img-fluid {
+    width: 33%;
+}
+
+.card-group {
+    min-width: 98%;
+}
+
+.card {
+    border: none;
 }
 
 // Original themes css
